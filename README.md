@@ -5,3 +5,6 @@ POSTsupplier	   POST		     /api/v1/suppliers		        new supplier resource ie c
 GET supplier	   GET		      /api/v1/suppliers/{id}		  one supplier resource is fetched
 PUT supplier	   PUT		      /api/v1/suppliers/{id}		  supplier resource is updated
 DELETE supplier	  DELETE		  /api/v1/suppliers/{id}		  supplier resource is deleted
+
+import project to netbeansIDE
+hibernate configuration has issue
